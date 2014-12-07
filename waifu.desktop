@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Waifu
+Comment=Watch torrent anime instantly
+Exec=waifu %U
+Icon=waifu
+Terminal=false
+Type=Application
+Categories=Player;Video;Network;
