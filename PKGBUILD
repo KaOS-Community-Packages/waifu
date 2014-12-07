@@ -1,6 +1,6 @@
 pkgname=waifu
 pkgver=latest
-pkgrel=1
+pkgrel=2
 pkgdesc="Stream anime from torrents. Skip the downloads. Launch, click, watch."
 arch=('x86_64')
 url="http://www.waifu.ca/"
@@ -11,7 +11,7 @@ options=('!strip')
 install="waifu.install"
 md5sums=('cae952ed5c5d071ac77fe99066b98229'
          'cf39cfa760be1a1e25ed1609f564af4b'
-         'bc7149a0cdae2986293f2930e5ea462e'
+         '6dbcc2ed6caef33d97c5dc5ffc43583c'
          'adaaaff59d725be879c5ae6bdef13242')
 
 source=("http://www.waifu.ca/waifu-linux64.tar.gz"
