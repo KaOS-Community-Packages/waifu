@@ -9,12 +9,12 @@ makedepends=('zip')
 depends=()
 options=('!strip')
 install="waifu.install"
-md5sums=('cae952ed5c5d071ac77fe99066b98229'
+md5sums=('e79d42eeb496aadf4d3d2934c88e8e36'
          'cf39cfa760be1a1e25ed1609f564af4b'
          '6dbcc2ed6caef33d97c5dc5ffc43583c'
          'adaaaff59d725be879c5ae6bdef13242')
 
-source=("http://www.waifu.ca/waifu-linux64.tar.gz"
+source=("http://waifu.ca/static/media/Waifu_linux64.tar.gz"
         "icon.png"
         "waifu.install"
         "waifu.desktop")
