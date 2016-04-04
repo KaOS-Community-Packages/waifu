@@ -1,5 +1,5 @@
 pkgname=waifu
-pkgver=latest
+pkgver=1.0
 pkgrel=1
 pkgdesc="Stream anime from torrents. Skip the downloads. Launch, click, watch."
 arch=('x86_64')
